@@ -14,8 +14,6 @@ Reach me: https://enoughdrama.me
 ---
 [![](https://visitcount.itsvg.in/api?id=enoughdrama&icon=10&color=5)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 [![wakatime](https://wakatime.com/badge/user/018b656a-a6ba-405e-86e7-6317ad04e233.svg)](https://wakatime.com/@018b656a-a6ba-405e-86e7-6317ad04e233)
 
 ![counter](https://moe-counter.glitch.me/get/@enoughdrama?theme=asoul)
